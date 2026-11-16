@@ -93,8 +93,6 @@ Built systems for **major European telecom providers**, **national logistics com
 
 [![Website](https://img.shields.io/badge/hochbichler.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hochbichler.com)
 [![Email](https://img.shields.io/badge/thomas@hochbichler.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas@hochbichler.com)
-[![LinkedIn](https://img.shields.io/badge/Thomas_Hochbichler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-hochbichler)
-
 ---
 
 <sub>Available for consulting, architecture reviews, and collaboration on interesting projects. Based in Austria, working with teams across Europe.</sub>
