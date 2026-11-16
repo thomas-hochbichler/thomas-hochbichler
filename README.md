@@ -7,6 +7,13 @@ Founder of **hochbichler.com - IT Services e.U.** — independent consulting for
 
 ---
 
+## What I make
+
+- [Shotnamer](https://shotnamer.com): a Mac menu bar app that renames each new screenshot by what's in it, on device with Apple Intelligence.
+- [Tagged Sync](https://taggedsync.com): an Obsidian plugin that syncs tagged reMarkable notebooks as searchable Markdown notes.
+
+---
+
 ## What I Bring to the Table
 
 - **30+ years** in software engineering across telecom, logistics, automotive, and media
